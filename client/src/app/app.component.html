@@ -1,0 +1,30 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+        
+            <div class="navbar-brand">Project Management</div>
+       
+        <ul class="nav navbar-nav">
+            <li [routerLinkActive]="['active']">
+                <a [routerLink]="['/project']">Add Project</a>
+            </li>
+            <li [routerLinkActive]="['active']">
+                <a [routerLink]="['/addTask']">Add Task</a>
+            </li>
+            <li [routerLinkActive]="['active']">
+                <a [routerLink]="['/user']">Add User</a>
+            </li>
+            <li [routerLinkActive]="['active']">
+                <a [routerLink]="['/viewTask']">View Task</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container" style="margin-top:70px">
+    <router-outlet></router-outlet>
+</div>
+<div id="loading-div" text-center class="modal-backdrop">
+    <div text-center class="modal-backdrop-loading loader">
+        <img src="assets/images/loading.gif" alt="">
+    </div>
+</div>

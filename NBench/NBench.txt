@@ -1,0 +1,20 @@
+Microsoft Windows [Version 10.0.17763.678]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>"C:\Users\Shubhodeep\source\repos\IIHT_SBA_PROJECT_MANAGER.NET\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner" "C:\Users\Shubhodeep\source\repos\IIHT_SBA_PROJECT_MANAGER.NET\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll"
+Executing Benchmarks in C:\Users\Shubhodeep\source\repos\IIHT_SBA_PROJECT_MANAGER.NET\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0124281
+Elapsed Time - ms: 1,012.00 ,ms: /s 999.58 , ns / ms: 1,000,423.02
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 1,012.00 ms, Average: 1,012.00 ms, Min: 1,012.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.58 ms, Average / s: 999.58 ms, Min / s: 999.58 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 1,012.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ----------
