@@ -1,8 +1,8 @@
 Microsoft Windows [Version 10.0.17763.678]
 (c) 2015 Microsoft Corporation. All rights reserved.
 
-C:\Windows\system32>"C:\Users\Shubhodeep\source\repos\IIHT_SBA_PROJECT_MANAGER.NET\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner" "C:\Users\Shubhodeep\source\repos\IIHT_SBA_PROJECT_MANAGER.NET\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll"
-Executing Benchmarks in C:\Users\Shubhodeep\source\repos\IIHT_SBA_PROJECT_MANAGER.NET\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+C:\Windows\system32>"C:\Users\jaide\source\repos\SBA\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner" "C:\Users\jaide\source\repos\SBA\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll"
+Executing Benchmarks in C:\Users\jaide\source\repos\SBA\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
 ------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
 --------------- BEGIN RUN ---------------
 Elapsed: 00:00:01.0124281
